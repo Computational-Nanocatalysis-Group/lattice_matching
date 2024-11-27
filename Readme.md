@@ -22,7 +22,9 @@ If you find no matches for your system, you can consider adjusting the parameter
 # Contributors
 
 Programming, conceptualization, and testing: Paulo C. D. Mendes
+
 Revisions and testing: Yizhen Song
+
 Conceptualization and supervision: Sergey Kozlov
 
 Published upon request by Prof. Sergey Kozlov.
